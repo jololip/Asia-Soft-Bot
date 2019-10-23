@@ -1,5 +1,8 @@
 # Asia-Soft-Bot-/
 
+## ТЗ
+https://docs.wixstatic.com/ugd/00ddf1_c23c4a233b3c4de7afae5e49cd58088c.pdf
+
 ## База данных
 
 ![alt text](er_diagram.png)
